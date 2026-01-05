@@ -1,4 +1,3 @@
-Aamir bhai, aapke Credit Card project ke liye ye ek professional aur detailed README.md file hai. Is mein maine aapke SQL scripts aur report se saari technical details aur findings add kar di hain.
 
 💳 Credit Card Financial Analysis & Data Pipeline
 📌 Project Overview
